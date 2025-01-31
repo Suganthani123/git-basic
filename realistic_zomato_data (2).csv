@@ -1,0 +1,101 @@
+Area,Pincode,Time_Slot,Gender,Num_PG_Hostels,Num_Orders,Avg_Order_Value,Category,Delivery_Type,Day_of_Week
+Peelamedu,641002,Lunch,Male,20,26,880.09,Drinks,Takeaway,Tuesday
+Peelamedu,641002,Dinner,Female,11,9,553.51,Desserts,Delivery,Monday
+RS Puram,641018,Lunch,Male,7,11,1464.68,Drinks,Dine-in,Monday
+Race Course,641004,Dinner,Female,2,49,1171.9,Desserts,Delivery,Sunday
+Saibaba Colony,641002,Lunch,Female,2,43,766.78,Drinks,Dine-in,Saturday
+Saibaba Colony,641011,Evening Snacks,Female,1,7,487.85,Desserts,Takeaway,Wednesday
+Saibaba Colony,641011,Breakfast,Male,9,41,318.85,Drinks,Delivery,Friday
+Saibaba Colony,641018,Evening Snacks,Female,2,1,114.91,Drinks,Dine-in,Thursday
+Peelamedu,641012,Dinner,Female,19,11,1227.44,Drinks,Dine-in,Sunday
+RS Puram,641012,Breakfast,Male,5,28,405.7,Veg,Delivery,Saturday
+Gandhipuram,641018,Late Night,Male,19,39,773.33,Drinks,Delivery,Saturday
+RS Puram,641004,Lunch,Male,2,9,650.44,Non-Veg,Dine-in,Friday
+Race Course,641012,Evening Snacks,Female,1,13,141.99,Drinks,Dine-in,Monday
+Saibaba Colony,641012,Evening Snacks,Male,2,38,439.02,Desserts,Dine-in,Sunday
+Peelamedu,641004,Breakfast,Female,12,23,459.2,Drinks,Delivery,Sunday
+Gandhipuram,641004,Dinner,Female,15,28,1174.02,Veg,Delivery,Saturday
+Race Course,641004,Late Night,Female,6,37,921.89,Desserts,Delivery,Wednesday
+Race Course,641012,Breakfast,Male,2,8,483.95,Veg,Delivery,Tuesday
+Saibaba Colony,641018,Late Night,Female,5,8,1284.02,Drinks,Delivery,Tuesday
+Gandhipuram,641018,Dinner,Male,14,46,629.83,Drinks,Dine-in,Tuesday
+Saibaba Colony,641004,Breakfast,Female,9,6,353.03,Drinks,Takeaway,Friday
+Peelamedu,641018,Late Night,Female,17,17,1067.48,Drinks,Delivery,Monday
+Gandhipuram,641004,Late Night,Female,12,48,1417.75,Desserts,Delivery,Saturday
+Saibaba Colony,641002,Lunch,Female,7,34,1216.09,Drinks,Takeaway,Wednesday
+Race Course,641012,Breakfast,Female,1,31,442.67,Veg,Takeaway,Monday
+Race Course,641012,Dinner,Female,7,25,884.11,Drinks,Dine-in,Sunday
+Saibaba Colony,641011,Late Night,Male,2,8,716.5,Desserts,Delivery,Monday
+Gandhipuram,641004,Late Night,Female,12,19,1399.56,Desserts,Delivery,Friday
+Race Course,641018,Lunch,Female,4,21,641.6,Veg,Dine-in,Wednesday
+Race Course,641012,Dinner,Male,9,20,927.11,Veg,Delivery,Friday
+Gandhipuram,641004,Late Night,Female,20,3,933.2,Desserts,Delivery,Wednesday
+Saibaba Colony,641002,Evening Snacks,Male,2,24,206.13,Desserts,Dine-in,Sunday
+Race Course,641011,Breakfast,Male,5,11,237.21,Veg,Delivery,Sunday
+RS Puram,641018,Breakfast,Male,1,23,339.78,Drinks,Takeaway,Sunday
+RS Puram,641002,Lunch,Male,4,14,1268.56,Drinks,Dine-in,Wednesday
+Gandhipuram,641011,Breakfast,Male,19,21,230.38,Drinks,Delivery,Thursday
+Gandhipuram,641004,Breakfast,Female,18,45,233.99,Veg,Delivery,Thursday
+Peelamedu,641018,Late Night,Female,16,4,1077.16,Desserts,Delivery,Wednesday
+Peelamedu,641012,Lunch,Male,11,34,654.44,Non-Veg,Delivery,Thursday
+Peelamedu,641004,Dinner,Female,15,26,1460.56,Drinks,Dine-in,Saturday
+Peelamedu,641004,Lunch,Female,14,9,1008.21,Veg,Takeaway,Wednesday
+Race Course,641002,Dinner,Female,8,50,875.04,Desserts,Dine-in,Thursday
+Saibaba Colony,641002,Lunch,Female,4,5,710.81,Veg,Delivery,Friday
+RS Puram,641018,Breakfast,Male,1,18,301.49,Veg,Delivery,Saturday
+Peelamedu,641004,Late Night,Male,20,46,909.65,Drinks,Delivery,Thursday
+Peelamedu,641002,Dinner,Female,10,22,1457.92,Non-Veg,Delivery,Monday
+Gandhipuram,641018,Evening Snacks,Male,17,18,404.89,Drinks,Dine-in,Friday
+Saibaba Colony,641012,Evening Snacks,Female,6,34,450.29,Drinks,Dine-in,Friday
+Peelamedu,641004,Breakfast,Female,17,23,440.12,Drinks,Delivery,Wednesday
+Gandhipuram,641011,Evening Snacks,Female,14,12,239.57,Desserts,Dine-in,Wednesday
+RS Puram,641002,Evening Snacks,Male,1,12,361.21,Desserts,Dine-in,Thursday
+Gandhipuram,641012,Lunch,Female,12,44,739.48,Drinks,Takeaway,Thursday
+Gandhipuram,641011,Evening Snacks,Female,14,10,320.57,Desserts,Dine-in,Thursday
+RS Puram,641012,Dinner,Male,9,45,523.08,Drinks,Dine-in,Tuesday
+Saibaba Colony,641011,Dinner,Female,7,31,783.8,Veg,Dine-in,Friday
+Race Course,641002,Dinner,Male,5,38,1077.75,Non-Veg,Dine-in,Sunday
+RS Puram,641012,Evening Snacks,Male,8,1,133.43,Desserts,Takeaway,Friday
+Peelamedu,641004,Evening Snacks,Male,10,46,485.9,Drinks,Takeaway,Tuesday
+RS Puram,641004,Breakfast,Male,1,19,395.36,Drinks,Takeaway,Saturday
+Gandhipuram,641004,Lunch,Female,15,33,1363.16,Non-Veg,Dine-in,Thursday
+Peelamedu,641004,Dinner,Male,11,45,1463.13,Drinks,Delivery,Tuesday
+RS Puram,641018,Breakfast,Male,3,49,287.1,Drinks,Takeaway,Friday
+Peelamedu,641018,Dinner,Male,20,48,1197.41,Non-Veg,Dine-in,Thursday
+RS Puram,641012,Late Night,Female,3,17,740.29,Desserts,Delivery,Saturday
+Gandhipuram,641011,Dinner,Male,12,18,860.02,Drinks,Delivery,Tuesday
+Race Course,641011,Dinner,Male,8,5,1231.6,Desserts,Delivery,Monday
+Peelamedu,641018,Evening Snacks,Male,12,25,453.31,Drinks,Takeaway,Monday
+Gandhipuram,641004,Lunch,Male,13,6,827.64,Veg,Delivery,Friday
+RS Puram,641018,Breakfast,Female,9,11,175.28,Drinks,Takeaway,Wednesday
+Gandhipuram,641018,Breakfast,Female,19,4,458.98,Drinks,Takeaway,Wednesday
+Gandhipuram,641011,Late Night,Female,10,32,772.05,Desserts,Delivery,Tuesday
+Saibaba Colony,641018,Evening Snacks,Female,3,25,439.48,Desserts,Dine-in,Saturday
+Peelamedu,641012,Late Night,Male,13,26,1456.3,Desserts,Delivery,Saturday
+Saibaba Colony,641004,Evening Snacks,Male,1,12,393.69,Desserts,Takeaway,Wednesday
+Race Course,641002,Evening Snacks,Female,2,40,404.34,Desserts,Dine-in,Friday
+Saibaba Colony,641004,Late Night,Female,2,42,1175.59,Desserts,Delivery,Thursday
+RS Puram,641012,Lunch,Male,2,42,1114.53,Non-Veg,Delivery,Wednesday
+RS Puram,641012,Late Night,Male,2,32,763.83,Desserts,Delivery,Saturday
+Saibaba Colony,641012,Late Night,Female,7,42,626.39,Desserts,Delivery,Friday
+Peelamedu,641012,Dinner,Female,12,28,849.24,Desserts,Delivery,Sunday
+Gandhipuram,641018,Late Night,Male,12,10,1038.39,Desserts,Delivery,Friday
+Saibaba Colony,641018,Late Night,Male,3,15,1152.45,Drinks,Delivery,Saturday
+RS Puram,641004,Late Night,Female,2,33,1179.19,Drinks,Delivery,Monday
+Saibaba Colony,641002,Dinner,Female,5,27,966.71,Drinks,Delivery,Tuesday
+Peelamedu,641011,Evening Snacks,Female,20,1,119.81,Drinks,Dine-in,Sunday
+Gandhipuram,641004,Dinner,Male,17,28,702.68,Non-Veg,Dine-in,Wednesday
+Peelamedu,641011,Breakfast,Male,19,50,147.83,Veg,Delivery,Saturday
+Peelamedu,641011,Breakfast,Female,18,9,322.87,Veg,Takeaway,Thursday
+Gandhipuram,641018,Evening Snacks,Female,15,8,401.45,Drinks,Dine-in,Sunday
+Peelamedu,641002,Breakfast,Female,11,9,163.02,Veg,Takeaway,Saturday
+Gandhipuram,641004,Lunch,Male,15,10,1084.26,Drinks,Takeaway,Monday
+Race Course,641018,Evening Snacks,Male,9,47,233.96,Drinks,Dine-in,Sunday
+Peelamedu,641002,Breakfast,Female,17,33,353.86,Drinks,Takeaway,Friday
+RS Puram,641018,Dinner,Male,8,25,1024.34,Drinks,Delivery,Sunday
+Race Course,641011,Dinner,Male,10,37,848.05,Veg,Delivery,Tuesday
+Gandhipuram,641018,Evening Snacks,Male,19,15,259.89,Desserts,Takeaway,Saturday
+Saibaba Colony,641012,Lunch,Female,10,33,519.25,Veg,Dine-in,Saturday
+Saibaba Colony,641018,Breakfast,Male,7,6,287.17,Veg,Takeaway,Sunday
+RS Puram,641012,Dinner,Male,4,29,1382.47,Drinks,Delivery,Saturday
+RS Puram,641004,Breakfast,Female,6,42,362.89,Drinks,Takeaway,Friday
